@@ -11,17 +11,6 @@ It fetches live weather data from the **OpenWeather API** and displays current c
 |-------------|---------------|---------------------|
 | ![Home](screenshots/home.png) | ![Search](screenshots/search.png) | ![Background](screenshots/background.png) |
 
-👉 Place your screenshots in a folder named `screenshots` inside your repo, and update the file names if needed.  
-For example:  
-```
-weather-app/
- ├── lib/
- ├── screenshots/
- │     ├── home.png
- │     ├── search.png
- │     ├── background.png
- └── README.md
-```
 
 ---
 
@@ -69,5 +58,5 @@ weather-app/
 ---
 
 ## 👨‍💻 Author
-- **Your Name**  
+- **Nigam Rathore**  
   [LinkedIn](https://linkedin.com/in/nigam-rathore) |
